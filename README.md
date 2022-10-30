@@ -1,7 +1,18 @@
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=under-44&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
+<!---pfp--->
+<p align="center"> <img src="https://user-images.githubusercontent.com/69401550/198866664-d84c7274-4e81-431e-8cce-c05fe1d5f2c5.jpg" width="150" height="150"/></p>
+<!---icons--->
+<p align="center">
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">                            <!---c++--->
+    <img src="https://user-images.githubusercontent.com/69401550/181756451-f8e1ca46-c13f-4f77-91d6-6b66e1a4feea.png" alt="cplusplus" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">                                    <!---python--->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">                                 <!---rust--->
+    <img src="https://user-images.githubusercontent.com/69401550/198866601-72d5ead6-1811-48d9-bc2c-0477aa635415.png" alt="rust" width="40" height="40"/>
+  </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">                         <!---typescript--->
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+</p>
 
-
-
-
-<p align="center"> <img src="https://user-images.githubusercontent.com/69401550/198825633-04a556fc-9042-4a9c-a31b-02b433147453.png" width="250" height="250"/></p>
-<p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/69401550/181756451-f8e1ca46-c13f-4f77-91d6-6b66e1a4feea.png" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.youtube.com/watch?v=yh59FEUOWxQ" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/69401550/181757552-b2419406-a239-4c7d-b3bc-6187c453636c.png" alt="cplusplusplus" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> </p>
